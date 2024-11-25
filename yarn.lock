@@ -2089,7 +2089,7 @@ eslint-plugin-react-hooks@^5.0.0:
 
 eslint-plugin-react-memo@^0.0.3:
   version "0.0.3"
-  resolved "https://registry.npmjs.org/eslint-plugin-react-memo/-/eslint-plugin-react-memo-0.0.3.tgz"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-memo/-/eslint-plugin-react-memo-0.0.3.tgz#26542aa2eeabed37f354c64c6b4eabc07051cf78"
   integrity sha512-IZzLDZJF4V84XL9+v74ypDSts/hAQtNeYFZGc3wvdX+YgIw4pkn4GiXPJ6MNUccNTPYJqr89Nnvqo3rcesEBOQ==
 
 eslint-plugin-react@^7.35.0, eslint-plugin-react@^7.37.2:

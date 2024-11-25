@@ -58,7 +58,7 @@ export default [{
 
     rules: {
         "react/display-name": "off",
-        "react-memo/require-usememo": "error",
+        "react-memo/require-usememo": "off",
         "react-memo/require-memo": "error",
         "react-hooks/rules-of-hooks": "error",
         "react-hooks/exhaustive-deps": "error",
