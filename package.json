@@ -7,12 +7,12 @@
     "clean": "rm -rf build-tsc .next",
     "compile": "yarn run -T tsc --build --verbose",
     "dev": "yarn compile && yarn next dev",
+    "format": "prettier --write .",
     "lint": "yarn run -T prettier --write './src/**/*.{js,jsx,json,ts,tsx}' && eslint './src/**/*.{js,jsx,ts,tsx}' --fix --max-warnings=0",
-    "start": "yarn next start",
-    "sitemap": "yarn next-sitemap",
-    "type-check": "tsc --noEmit",
     "lint:fix": "next lint --fix",
-    "format": "prettier --write ."
+    "sitemap": "yarn next-sitemap",
+    "start": "yarn next start",
+    "type-check": "tsc --noEmit"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.16",
